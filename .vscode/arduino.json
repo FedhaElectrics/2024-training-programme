@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "usbasp",
+    "port": "COM13",
+    "sketch": "Fedha_combined_PROJECT_v2_20240116170836\\Fedha_Combined_PROJECT_v2_20240116170836\\Fedha_Combined_PROJECT_v2_20240116170836.ino"
+}

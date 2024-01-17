@@ -24,7 +24,7 @@ int relay_pin = 12;
 
 void setup() {
   // initialize serial:
-  Serial.begin(115200);
+  Serial.begin(9600);
   // reserve 200 bytes for the inputString:
   inputString.reserve(200);
    pinMode(relay_pin,OUTPUT);
